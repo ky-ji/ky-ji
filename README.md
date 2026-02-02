@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m Kangye Ji (季康烨)
 - 🌱 First-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 - 🎓 Got my bachelor's degree at [Xidian University](https://en.xidian.edu.cn/)
-- 📫 How to reach me: kangyejics@gmail.com | [Homepage](https://ky-ji.github.io/) 
+- 📫 How to reach me: kangyejics@gmail.com | [Homepage](https://ky-ji.github.io/)
+- 🚀 I'm always excited for new ideas—let’s brainstorm or collaborate via email! 
