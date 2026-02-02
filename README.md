@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m Kangye Ji (季康烨)
-- 🌱 I’m currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/).
-- 🎓 I got my bachelor's degree at [Xidian University](https://en.xidian.edu.cn/).
-- 📫 How to reach me: kangyejics@gmail.com|[Homepage](https://ky-ji.github.io/)
+- 🌱 First-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/)
+- 🎓 Got my bachelor's degree at [Xidian University](https://en.xidian.edu.cn/)
+- 📫 How to reach me: kangyejics@gmail.com | [Homepage](https://ky-ji.github.io/) 
