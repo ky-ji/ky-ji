@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m Kangye Ji (季康烨)
 - 🌱 First-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/)
-- 🎓 Got my bachelor's degree at [Xidian University](https://en.xidian.edu.cn/)
-- 🚀 Always excited for new ideas. Just shoot me an email to start a discussion or explore collaboration!! 
+- 🚀 I envision building action-native foundation models that act, adapt, and continually learn from the physical world.
 <p align="left">
   <a href="mailto:kangyejics@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
