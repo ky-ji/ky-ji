@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kangyejics@gmail.com | [Wechat](https://ky-ji.github.io/assets/img/wechat.png) | [Homepage](https://ky-ji.github.io/)
 -->
 - 🔭 I’m Kangye Ji (季康烨)
-- 🌱 First-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/)
+- 🌱 Second-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/)
 - 🚀 I envision building action-native foundation models that act, adapt, and continually learn from the physical world.
 <p align="left">
   <a href="mailto:kangyejics@gmail.com">
